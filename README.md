@@ -5,7 +5,7 @@ I enjoy learning, you can check my [Credly profile](https://www.credly.com/users
 
 This year, I was recognized as [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b8f8bfd4-4e03-400d-abfb-6d5619371f7e) for Azure.
 
-<img width="181" height="74" alt="MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB" src="https://github.com/user-attachments/assets/93ac5b1a-e555-4051-9bff-cd6e23679487" />
+<img width="210" height="210" alt="MVP_Badge_Avatar_Secondary_DarkBlue7694_RGB" src="https://github.com/user-attachments/assets/6608aaad-a7d9-445f-9ded-e744b0ad037d" />
 
 
 I am particularly passionate about Azure architecture, Infrastructure as Code, and DevOps:
@@ -13,7 +13,7 @@ I am particularly passionate about Azure architecture, Infrastructure as Code, a
 <img width="96" height="96" alt="microsoft-certified-azure-network-engineer-associate(2)" src="https://github.com/user-attachments/assets/c8d36ec9-e833-4751-9e95-29af9c1b2148" /> <img width="96" height="96" alt="microsoft-365-certified-enterprise-administrator-expert(2)" src="https://github.com/user-attachments/assets/65575e7c-cff0-4752-833b-a57cc616a004" /> <img width="96" height="96" alt="microsoft-certified-azure-solutions-architect-expert 1(2)" src="https://github.com/user-attachments/assets/05672533-0e46-40f6-a14d-761b417038dc" />
 
 
-I have also been an MCT since 2021:
+I have also been a Microsoft MCT since 2021:
 
 <img width="208" height="209" alt="Standard MCT Badge Small" src="https://github.com/user-attachments/assets/0d3e5a1a-88fa-4267-a3af-2dc338162269" />
 
