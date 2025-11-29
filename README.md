@@ -1,6 +1,6 @@
 ## Hi there, Im Joao Paulo (JP) 👋
 
-I work as a Lead Application Support Manager at Standard Life UK.
+I work as a Lead Application Support Manager at Phoenix Group.
 I enjoy learning, you can check my [Credly profile](https://www.credly.com/users/joao-paulo-costa/badges)
 
 This year, I was recognized as [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b8f8bfd4-4e03-400d-abfb-6d5619371f7e) for Azure.
