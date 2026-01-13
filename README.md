@@ -63,6 +63,7 @@ I have also been a Microsoft MCT since 2021:
 
 ## ✍️ Latest posts from Get Practical
 <!-- BLOG-POST-LIST:START -->
+- [Building an Azure “Super-Assistant” with Azure MCP (Preview)](https://getpractical.co.uk/2025/12/19/building-an-azure-super-assistant-with-azure-mcp-preview/) 
 - [Azure Health Check – A Free Script to Audit and Visualise Cloud Hygiene](https://getpractical.co.uk/2025/11/29/azure-health-check-a-free-script-to-audit-and-visualise-cloud-hygiene/)
 - [Azure Private Link Service Direct Connect – Simplified Private Connectivity (Public Preview)](https://getpractical.co.uk/2025/10/29/azure-private-link-service-direct-connect-simplified-private-connectivity-public-preview/)
 - [Automating a Monthly Azure Update Compliance Report with Logic Apps + Azure Resource Graph](https://getpractical.co.uk/2025/09/29/automating-a-monthly-azure-update-compliance-report-with-logic-apps-azure-resource-graph/)
