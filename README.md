@@ -3,7 +3,7 @@
 I work as a Lead Application Support Manager at Phoenix Group.
 I enjoy learning, you can check my [Credly profile](https://www.credly.com/users/joao-paulo-costa/badges)
 
-This year, I was recognized as [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b8f8bfd4-4e03-400d-abfb-6d5619371f7e) for Azure.
+In 2025, I was recognized as [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b8f8bfd4-4e03-400d-abfb-6d5619371f7e) for Azure.
 
 <img width="210" height="210" alt="MVP_Badge_Avatar_Secondary_DarkBlue7694_RGB" src="https://github.com/user-attachments/assets/6608aaad-a7d9-445f-9ded-e744b0ad037d" />
 
