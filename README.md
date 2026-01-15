@@ -51,7 +51,7 @@ I’ve been a Microsoft Certified Trainer (MCT) since 2021, delivering official 
 
 Alongside this, I actively share knowledge through blogging and community engagement.
 
-<h2 align="center">## 🧑‍💻 About Me</h2>
+<h2 align="center"> 🧑‍💻 About Me</h2>
 - 🇧🇷 Brazilian living in 🇬🇧 UK
 - 18+ years of experience in IT infrastructure  
 - Lead Application Support Manager focused on **Azure, Microsoft 365, Automation & Intune**  
@@ -60,7 +60,7 @@ Alongside this, I actively share knowledge through blogging and community engage
 
 ---
 
-<h2 align="center">## 🚀 What I usually work on</h2>
+<h2 align="center"> 🚀 What I usually work on</h2>
 
 - Designing and supporting **Azure landing zones**, governance & best practices  
 - **Microsoft 365**: Exchange Hybrid, Teams, Intune, Defender, Conditional Access  
@@ -73,7 +73,7 @@ Alongside this, I actively share knowledge through blogging and community engage
 
 ---
 
-<h2 align="center">## 🧰 Tech stack & interests</h2>
+<h2 align="center"> 🧰 Tech stack & interests</h2>
 
 ### ☁️ Cloud & Identity
 - Azure · Azure Virtual Machines · Storage · Networking  
