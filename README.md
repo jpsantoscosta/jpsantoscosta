@@ -52,10 +52,11 @@ I’ve been a Microsoft Certified Trainer (MCT) since 2021, delivering official 
 Alongside this, I actively share knowledge through blogging and community engagement.
 
 <h2 align="center"> 🧑‍💻 About Me</h2>
+
 - 🇧🇷 Brazilian living in 🇬🇧 UK
 - 18+ years of experience in IT infrastructure  
-- Lead Application Support Manager focused on **Azure, Microsoft 365, Automation & Intune**  
-- Passionate about **documentation**, **real-world tutorials** and **helping the community**  
+- Lead Application Support Manager focused on **Azure, Microsoft 365, Automation & Intune**
+- Passionate about **documentation**, **real-world tutorials** and **helping the community**
 - Author of GetPractical.co.uk – practical content without the bullshit
 
 ---
