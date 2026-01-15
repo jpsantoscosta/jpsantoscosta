@@ -1,24 +1,57 @@
-## Hi there, Im Joao Paulo (JP) 👋
+<h2 align="center">Hi there, I’m João Paulo (JP) 👋</h2>
 
-I work as a Lead Application Support Manager at Phoenix Group.
-I enjoy learning, you can check my [Credly profile](https://www.credly.com/users/joao-paulo-costa/badges)
+I’m a Lead Application Support Manager at Phoenix Group, with a strong passion for continuous learning and technology. You can explore my certifications and learning journey on my [Credly profile](https://www.credly.com/users/joao-paulo-costa/badges).
 
-In 2025, I was recognized as [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b8f8bfd4-4e03-400d-abfb-6d5619371f7e) for Azure.
+In 2025, I was honoured to be recognised as a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b8f8bfd4-4e03-400d-abfb-6d5619371f7e) for Azure.
 
-<img width="210" height="210" alt="MVP_Badge_Avatar_Secondary_DarkBlue7694_RGB" src="https://github.com/user-attachments/assets/6608aaad-a7d9-445f-9ded-e744b0ad037d" />
+<p align="center">
+  <img
+    width="210"
+    height="210"
+    alt="Microsoft MVP Badge"
+    src="https://github.com/user-attachments/assets/6608aaad-a7d9-445f-9ded-e744b0ad037d"
+  />
+</p>
 
+I’m particularly passionate about Azure architecture, cloud infrastructure, Infrastructure as Code, and DevOps practices, with a strong focus on building secure, scalable, and well-governed platforms.
 
-I am particularly passionate about Azure architecture, Infrastructure as Code, and DevOps:
+I also hold several Microsoft certifications, including Azure Solutions Architect and Enterprise Administrator.
 
-<img width="96" height="96" alt="microsoft-certified-azure-network-engineer-associate(2)" src="https://github.com/user-attachments/assets/c8d36ec9-e833-4751-9e95-29af9c1b2148" /> <img width="96" height="96" alt="microsoft-365-certified-enterprise-administrator-expert(2)" src="https://github.com/user-attachments/assets/65575e7c-cff0-4752-833b-a57cc616a004" /> <img width="96" height="96" alt="microsoft-certified-azure-solutions-architect-expert 1(2)" src="https://github.com/user-attachments/assets/05672533-0e46-40f6-a14d-761b417038dc" />
+<p align="center">
+  <img
+    width="96"
+    height="96"
+    alt="Microsoft Certified: Azure Network Engineer Associate"
+    src="https://github.com/user-attachments/assets/c8d36ec9-e833-4751-9e95-29af9c1b2148"
+  />
+  <img
+    width="96"
+    height="96"
+    alt="Microsoft 365 Certified: Enterprise Administrator Expert"
+    src="https://github.com/user-attachments/assets/65575e7c-cff0-4752-833b-a57cc616a004"
+  />
+  <img
+    width="96"
+    height="96"
+    alt="Microsoft Certified: Azure Solutions Architect Expert"
+    src="https://github.com/user-attachments/assets/05672533-0e46-40f6-a14d-761b417038dc"
+  />
+</p>
 
+I’ve been a Microsoft Certified Trainer (MCT) since 2021, delivering official Microsoft training.
 
-I have also been a Microsoft MCT since 2021:
+<p align="center">
+  <img
+    width="208"
+    height="209"
+    alt="Standard MCT Badge Small"
+    src="https://github.com/user-attachments/assets/0d3e5a1a-88fa-4267-a3af-2dc338162269"
+  />
+</p>
 
-<img width="208" height="209" alt="Standard MCT Badge Small" src="https://github.com/user-attachments/assets/0d3e5a1a-88fa-4267-a3af-2dc338162269" />
+Alongside this, I actively share knowledge through blogging and community engagement.
 
-
-## 🧑‍💻 About Me
+<h2 align="center">## 🧑‍💻 About Me</h2>
 - 🇧🇷 Brazilian living in 🇬🇧 UK
 - 18+ years of experience in IT infrastructure  
 - Lead Application Support Manager focused on **Azure, Microsoft 365, Automation & Intune**  
@@ -27,7 +60,7 @@ I have also been a Microsoft MCT since 2021:
 
 ---
 
-## 🚀 What I usually work on
+<h2 align="center">## 🚀 What I usually work on</h2>
 
 - Designing and supporting **Azure landing zones**, governance & best practices  
 - **Microsoft 365**: Exchange Hybrid, Teams, Intune, Defender, Conditional Access  
@@ -40,7 +73,7 @@ I have also been a Microsoft MCT since 2021:
 
 ---
 
-## 🧰 Tech stack & interests
+<h2 align="center">## 🧰 Tech stack & interests</h2>
 
 ### ☁️ Cloud & Identity
 - Azure · Azure Virtual Machines · Storage · Networking  
