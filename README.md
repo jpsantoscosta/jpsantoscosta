@@ -97,6 +97,9 @@ Alongside this, I actively share knowledge through blogging and community engage
 
 ## ✍️ Latest posts from Get Practical
 <!-- BLOG-POST-LIST:START -->
+- [Working with content understanding using Azure AI Foundry agent](https://getpractical.co.uk/2026/03/28/working-with-content-understanding-using-azure-ai-foundry-agent/)
+- [Designing Safe Azure App Registration Secret Rotation (With Guardrails)](https://getpractical.co.uk/2026/02/27/designing-safe-azure-app-registration-secret-rotation-with-guardrails/)
+- [Why most Azure environments fail at governance](https://getpractical.co.uk/2026/01/30/why-most-azure-environments-fail-at-governance/)
 - [Building an Azure “Super-Assistant” with Azure MCP (Preview)](https://getpractical.co.uk/2025/12/19/building-an-azure-super-assistant-with-azure-mcp-preview/) 
 - [Azure Health Check – A Free Script to Audit and Visualise Cloud Hygiene](https://getpractical.co.uk/2025/11/29/azure-health-check-a-free-script-to-audit-and-visualise-cloud-hygiene/)
 - [Azure Private Link Service Direct Connect – Simplified Private Connectivity (Public Preview)](https://getpractical.co.uk/2025/10/29/azure-private-link-service-direct-connect-simplified-private-connectivity-public-preview/)
