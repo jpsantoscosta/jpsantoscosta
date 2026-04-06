@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I’m João Paulo (JP) 👋</h2>
 
-I’m a Lead Application Support Manager at Phoenix Group, with a strong passion for continuous learning and technology. You can explore my certifications and learning journey on my [Credly profile](https://www.credly.com/users/joao-paulo-costa/badges).
+I’m a Lead Application Support Manager at Standard Life PLC, with a strong passion for continuous learning and technology. You can explore my certifications and learning journey on my [Credly profile](https://www.credly.com/users/joao-paulo-costa/badges).
 
 In 2025, I was honoured to be recognised as a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/b8f8bfd4-4e03-400d-abfb-6d5619371f7e) for Azure.
 
