@@ -54,10 +54,10 @@ Alongside this, I actively share knowledge through blogging and community engage
 <h2 align="center"> 🧑‍💻 About Me</h2>
 
 - 🇧🇷 Brazilian living in 🇬🇧 UK
-- 18+ years of experience in IT infrastructure  
+- 19+ years of experience in IT infrastructure  
 - Lead Application Support Manager focused on **Azure, Microsoft 365, Automation & Intune**
 - Passionate about **documentation**, **real-world tutorials** and **helping the community**
-- Author of GetPractical.co.uk – practical content without the bullshit
+- Author of GetPractical.co.uk
 
 ---
 
